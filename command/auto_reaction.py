@@ -3,7 +3,7 @@ import asyncio
 import os
 import aiofiles 
 import json
-import commands as command
+import command
 from telebot import types
 from telebot.async_telebot import *
 from dotenv import load_dotenv

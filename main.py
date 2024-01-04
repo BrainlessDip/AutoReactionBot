@@ -1,7 +1,7 @@
 import telebot
 import asyncio
 import os
-import commands as command
+import command
 import admin
 from telebot import types
 from telebot.async_telebot import AsyncTeleBot
